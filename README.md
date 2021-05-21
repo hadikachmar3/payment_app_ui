@@ -1,5 +1,4 @@
-# Payments App UI
-  A single UI of payments app.
+# Personal expenses
   
 ## Design Inspiration
 ![Payment Mockup](https://user-images.githubusercontent.com/38382273/119203750-82612080-ba9c-11eb-86b0-883e9876782e.png)
